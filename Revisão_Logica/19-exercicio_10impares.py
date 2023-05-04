@@ -1,3 +1,4 @@
+#exercicio 19 do slide de revisão#
 '''
 Usando While escreva um algoritmo
 que preencha um array A com os 10
