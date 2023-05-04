@@ -19,5 +19,5 @@ soma = 0
 
 for x in range(1, 5):
   num = int(input(f"Digite aqui o {[x]} numero: "))
-  soma=soma+num
+  soma=soma+num # soma+=num é o modo resumido e mais utilizado de escrever a conta ao lado
 print(f" A media dos 4 numeros digitados é {soma/4})
