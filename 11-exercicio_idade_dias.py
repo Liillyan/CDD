@@ -1,6 +1,6 @@
 ''' Faça um algoritimo que leia a idade de uma pessoa
 expressa em anos, meses e dias e escreva a idade dessa 
-pessoa expressa em apenas dias. considere o ano com 365 diase o mês com 30 dias
+pessoa expressa em apenas dias. considere o ano com 365 dias e o mês com 30 dias
 Altere o código para que o usuario possa repetir a aplicação caso queira.
 '''
 

@@ -1,4 +1,4 @@
-#exercicio 12 do slide de revisão#
+    #exercicio 12 do slide de revisão#
 '''Escreva um algoritmo para ler o
 número total de eleitores de um
 município, o número de votos brancos,
@@ -41,6 +41,7 @@ while continua == "sim":
         porc_votos_nulos = votos_nulos * 100 / quant_eleitores
         porc_votos_validos = votos_validos * 100 / quant_eleitores
             
-        print(f"De {quant_eleitores} votos, {porc_votos_brancos}% foram votos em branco, {votos_nulos}% foram votos nulos e {porc_votos_validos}% foram votos válidos")
+        print(f"De {quant_eleitores} votos, {porc_votos_brancos}% foram votos em branco, "
+              f"{votos_nulos}% foram votos nulos e {porc_votos_validos}% foram votos válidos")
 
     continua = input("Deseja fazer um novo calculo? ").lower()

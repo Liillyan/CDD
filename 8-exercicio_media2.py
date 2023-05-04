@@ -13,7 +13,7 @@ soma = (n1+n2+n3+n4)
 media = soma/4
 print(f"A media desses 4 numeros é {media}")
 
-#mesmo exercicio feito com for#
+#mesmo exercicio porem refatorado durante a aula utilizando for#
 
 soma = 0
 
